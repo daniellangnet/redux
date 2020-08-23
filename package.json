@@ -1,6 +1,6 @@
 {
   "name": "@daniellangnet/pubnub-redux",
-  "version": "0.0.11-custom-2",
+  "version": "0.0.11-custom-3",
   "main": "dist/index.js",
   "module": "dist/pubnub-redux.esm.js",
   "typings": "dist/index.d.ts",
